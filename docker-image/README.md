@@ -3,6 +3,6 @@ To create a docker image from the web microframework application, you can apply 
 ``docker build -t webserv .``
 
 
-or the following in the case that you need the image whether for x86_64 or ARM-based machines:
+or the following in the case that you need the image whether for x86-64 or ARM-based machines:
 
 ``docker buildx build -t webserv .``
