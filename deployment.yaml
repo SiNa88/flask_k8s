@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: flask-k8s
-          image: webserv:latest
+          image: sina88/webserv:latest
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 5000
