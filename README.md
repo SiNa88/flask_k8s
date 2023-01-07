@@ -1,4 +1,4 @@
-# flask_k8s
+# Flask application
 
 
 * To deploy the app, run this command: ```kubectl apply -f deployment.yaml```
