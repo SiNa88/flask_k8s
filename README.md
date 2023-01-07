@@ -1,7 +1,7 @@
 # flask_k8s
 
 
-* To deploy the app, run this command: ´´´kubectl apply -f deployment.yaml´´´
+* To deploy the app, run this command: ```kubectl apply -f deployment.yaml```
 
 
-* To expose it as an internal service, run this command: ´´´kubectl apply -f service.yaml´´´
+* To expose it as an internal service, run this command: ```kubectl apply -f service.yaml```
